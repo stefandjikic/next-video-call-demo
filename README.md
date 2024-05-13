@@ -1,4 +1,14 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Build and Deploy Video Call App in Minutes - Next 14 and ZEGOCLOUD
+
+Repository from my YouTube tutorial
+
+## Technologies used
+
+- [Next.js](https://nextjs.org/)
+
+- [Tailwind.css](https://tailwindcss.com/)
+  
+- [Zegoclud](https://bit.ly/4bhlG2U)
 
 ## Getting Started
 
