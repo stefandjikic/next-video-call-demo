@@ -2,6 +2,10 @@
 
 Repository from my YouTube tutorial
 
+[![Video](https://github.com/stefandjikic/next-video-call-demo/assets/65912958/e2102a15-7f66-439c-9b9c-f7a8904d86fa)
+](https://youtu.be/SgYdTf9XnxU)
+
+
 ## Technologies used
 
 - [Next.js](https://nextjs.org/)
